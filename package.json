@@ -1,8 +1,8 @@
 {
-  "name": "ngdraggable",
+  "name": "ng-draggable",
   "version": "0.1.10",
   "description": "Drag and drop module for Angular JS with support for touch devices",
-  "main": "ngDraggable.js",
+  "main": "ng-draggable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
